@@ -1,0 +1,103 @@
+{
+  "tasks": {
+    "anon::2026-06-14": [
+      {
+        "id": "wa4w6zp1q",
+        "type": "Learn",
+        "title": "Learn core basics for Basic C++",
+        "detail": "Go through recommended introductory documentation or tutorial",
+        "duration": "45 min",
+        "done": false,
+        "date": "2026-06-14"
+      },
+      {
+        "id": "t4lw0i43d",
+        "type": "Practice",
+        "title": "Set up environment & practice basic syntax",
+        "detail": "Write 3 simple scripts/programs locally",
+        "duration": "60 min",
+        "done": false,
+        "date": "2026-06-14"
+      },
+      {
+        "id": "7n9f6hw1q",
+        "type": "Career",
+        "title": "Research top 3 internship requirements for Get a software internship",
+        "detail": "List skills and technologies mentioned in job listings",
+        "duration": "30 min",
+        "done": false,
+        "date": "2026-06-14"
+      }
+    ]
+  },
+  "progressLogs": {
+    "anon": [
+      {
+        "date": "2026-06-14",
+        "completedTasksCount": 0,
+        "totalTasksCount": 3
+      }
+    ]
+  },
+  "profiles": {
+    "anon": {
+      "name": "Arjun Sharma",
+      "degree": "B.Tech",
+      "branch": "Mechanical Engineering",
+      "year": "Second year",
+      "skills": [
+        "Basic C++",
+        "HTML fundamentals"
+      ],
+      "interests": [
+        "Software development",
+        "Web development"
+      ],
+      "goal": "Get a software internship",
+      "budget": "₹5,000",
+      "weeklyTime": "7 hours"
+    }
+  },
+  "roadmaps": {
+    "anon": {
+      "plan30": {
+        "skills": [
+          "Modern JavaScript/ES6 fundamentals",
+          "HTML5 Semantic Structure & CSS3 layout (Flexbox/Grid)",
+          "Git version control & basic command line"
+        ],
+        "resources": [
+          "MDN Web Docs (Javascript section)",
+          "freeCodeCamp - Responsive Web Design Course",
+          "The Odin Project - Foundation path"
+        ],
+        "projects": [
+          "Responsive portfolio showcase website",
+          "Dynamic calculator or task tracker dashboard"
+        ]
+      },
+      "plan90": {
+        "goals": [
+          "Master React.js (Hooks, state, router)",
+          "Learn tailwindcss & UI components library",
+          "Practice 2 DSA problems on Leetcode every day"
+        ],
+        "projects": [
+          "Weather application using external fetch API",
+          "Complete ecommerce shopping cart with local state storage"
+        ]
+      },
+      "plan180": {
+        "prep": [
+          "Rewrite professional resume targeting entry-level developer roles",
+          "Complete 5 mock system design/behavioral interviews",
+          "Contribute a pull request to a public repository"
+        ],
+        "readiness": [
+          "Apply to 15+ relevant internships",
+          "Publish 3 project case studies on LinkedIn"
+        ]
+      }
+    }
+  }
+}
